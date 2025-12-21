@@ -26,4 +26,4 @@ Simultaneous Localization and Mapping (SLAM) is the backbone of autonomous mobil
 - [ ] Benchmark against standard datasets.
 
 ---
-Author: Melih Levent Aslan | M.Sc. Student, University of Bonn
+Melih Levent Aslan | M.Sc. Student, University of Bonn
